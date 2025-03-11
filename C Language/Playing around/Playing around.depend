@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1741348327 source:c:\users\micha\onedrive\documents\c language\playing around\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1741348961 source:c:\users\micha\onedrive\documents\c language\playing around\bettercalc.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1741349697 source:c:\users\micha\onedrive\documents\c language\playing around\switch.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1741354408 source:c:\users\micha\onedrive\documents\c language\playing around\loops.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1741705892 source:c:\users\micha\onedrive\documents\c language\playing around\struct.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1741352958 source:c:\users\micha\onedrive\documents\c language\playing around\guess game.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1741355967 source:c:\users\micha\onedrive\documents\c language\playing around\memoryaddresses.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1741698127 source:c:\users\micha\onedrive\documents\c language\playing around\files.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1741704641 source:c:\users\micha\onedrive\documents\c language\playing around\cbasics.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+
